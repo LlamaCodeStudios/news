@@ -1,2 +1,5 @@
-# news
-News log for Llama Code Studios
+
+**Llama News**
+
+No news yet.
+
